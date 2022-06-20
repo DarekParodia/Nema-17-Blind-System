@@ -6,6 +6,8 @@ To connect motor to the pcb i used 2mm goldpins, because my motor has this type 
 You can drive blinds using gearbox, it depends on how heavy your blinds are, or how strong is your motor.
 Design uses M3 screws to assembly everything. I didn't put points for screwing the pcb so you can attach it anyway you want
 
+STL files can be found also on thingiverse: https://www.thingiverse.com/thing:5415491
+
 # 🛠 Needed Parts
 - 1x Nema 17 motor
 - 1x a4988 driver
