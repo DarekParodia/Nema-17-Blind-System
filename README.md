@@ -16,7 +16,7 @@ STL files can be found also on thingiverse: https://www.thingiverse.com/thing:54
     - 1x quad dip switch
 - IC
     - 1x attiny 13
-    - 1x lm78l05
+    - 1x lm7805
 - Connectors
     - 1x quad goldpins (2mm)
     - 1x fivefold goldpins (2,54mm)
