@@ -21,7 +21,7 @@ STL files can be found also on thingiverse: https://www.thingiverse.com/thing:54
     - 1x quad goldpins (2mm)
     - 1x fivefold goldpins (2,54mm)
     - 1x dc jack (5.5mm)
-- 2x apacitor (12v 100f)
+- 2x capacitor (12v 100f)
 - resistors
     -  2x 1 kΩ
     -  1x 470 Ω
